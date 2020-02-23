@@ -50,8 +50,8 @@ body {
   text-shadow: 2px 2px 5px darkgrey;
   font-family: "Times New Roman";
   transform: translate(-50%, -50%);
-  position: absolute;
-  top: 40%;
+  position: relative;
+  top: 300px;
   left: 50%;
 }
 

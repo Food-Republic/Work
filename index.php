@@ -125,8 +125,10 @@ else {
 
     <div class="wide">
       	<div class="col-xs-5 line"><hr></div>
-        <div class="col-xs-2 logo"><img src="images/LogoImage.jpg"></div>
+        <div class="col-xs-2 logo"><img src="images/LogoImage1.png"></div>
         <div class="col-xs-5 line"><hr></div>
+        <br>
+        <br>
         <div class="tagline">Food is life.Order what you Love!</div>
     </div>
     <br>
