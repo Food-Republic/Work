@@ -130,13 +130,14 @@ else {
         <br>
         <br>
         <div class="tagline">Food is life.Order what you Love!</div>
-    </div>
-    <br>
+        <br>
     <div class="orderblock">
     <h2>Feeling Hungry?</h2>
     <center><a class="btn btn-success btn-lg" href="customerlogin.php" role="button" > Order Now </a></center>
     </div>
 
+    </div>
+ 
     
   
 </body>
