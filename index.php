@@ -7,7 +7,8 @@ session_start();
   <head>
     <title> Food Republic </title>
   </head>
-
+  <link rel="shortcut icon"  href="icon.png">
+  <link rel="shortcut icon" href="images/icon.png">
   <link rel="stylesheet" type = "text/css" href ="css/bootstrap.min.css">
   <link rel="stylesheet" type = "text/css" href ="css/index.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
