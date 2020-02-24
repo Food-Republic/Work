@@ -3,7 +3,8 @@
   <head>
     <title> Manager Login | Food Republic </title>
   </head>
-
+  <link rel="shortcut icon"  href="icon.png">
+  <link rel="shortcut icon" href="images/icon.png">
   <link rel="stylesheet" type = "text/css" href ="css/manager_registered_success.css">
   <link rel="stylesheet" type = "text/css" href ="css/bootstrap.min.css">
   <script type="text/javascript" src="js/jquery.min.js"></script>

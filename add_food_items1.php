@@ -33,6 +33,8 @@ if (!$success){
 	<html>
 	<head>
 		<title></title>
+    <link rel="shortcut icon"  href="icon.png">
+  <link rel="shortcut icon" href="images/icon.png">
 	<link rel="stylesheet" type = "text/css" href ="css/add_food_items.css">
   <link rel="stylesheet" type = "text/css" href ="css/bootstrap.min.css">
   <script type="text/javascript" src="js/jquery.min.js"></script>

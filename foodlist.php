@@ -13,7 +13,8 @@ header("location: customerlogin.php");
   <head>
     <title> Explore | Food Food Republic </title>
   </head>
-
+  <link rel="shortcut icon"  href="icon.png">
+  <link rel="shortcut icon" href="images/icon.png">
   <link rel="stylesheet" type = "text/css" href ="css/foodlist.css">
   <link rel="stylesheet" type = "text/css" href ="css/bootstrap.min.css">
   <script type="text/javascript" src="js/jquery.min.js"></script>

@@ -149,8 +149,9 @@ else {
         </section>
         <section id="address" class="col-sm-4">
           <span>Address:</span><br>
-          7105 Reisterstown Road<br>
-          Baltimore, MD 21215
+          Academic Block 6
+           Chandigarh University,<br>
+           Punjab 140413
           <p>* Delivery area within 3-4 miles, with minimum order of 400 Rs plus 50 Rs charge for all deliveries.</p>
           <hr class="visible-xs">
         </section>
