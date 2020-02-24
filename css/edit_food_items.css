@@ -1,16 +1,16 @@
-body,html {
+body,
+html {
   height: 100%;
- }
+}
 
 body {
   padding-top: 50px;
-  background-image: url('headerimg2.jpg');
+  background-image: url("headerimg2.jpg");
   background-repeat: repeat;
   background-size: 100%;
-
 }
 
-#myBtn{
+#myBtn {
   display: none;
   position: fixed;
   bottom: 20px;
@@ -29,22 +29,60 @@ body {
   color: white;
 }
 
-.bg-4{
+.bg-4 {
   background-color: #2f2f2f;
   color: #ffffff;
-
 }
 
-footer{
+footer {
   display: block;
 }
 
 .form-area {
-  background-color: #FAFAFA;
+  background-color: #fafafa;
   padding: 10px 40px 60px;
   margin: 10px 0px 60px;
   border: 1px solid GREY;
-  opacity:0.9;
+  opacity: 0.9;
 }
 
-
+/* FOOTER */
+.panel-footer {
+  margin-top: 30px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  background-color: #222 !important;
+  border-top: 0;
+  margin: 0em;
+  color: white;
+}
+.panel-footer div.row {
+  margin-bottom: 35px;
+}
+#hours,
+#address {
+  line-height: 2;
+}
+#hours > span,
+#address > span {
+  font-size: 1.3em;
+}
+#address p {
+  color: #557c3e;
+  font-size: 0.8em;
+  line-height: 1.8;
+}
+#testimonials {
+  font-style: italic;
+}
+#testimonials p:nth-child(2) {
+  margin-top: 25px;
+}
+.text-center .red {
+  color: red;
+}
+/* END FOOTER */
+.mapframe {
+  width: 350px;
+  height: 200px;
+}
