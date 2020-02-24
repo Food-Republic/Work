@@ -137,6 +137,7 @@ else {
     </div>
 
     </div>
+    <!-- Footer code -->
     <footer class="panel-footer">
     <div class="container">
       <div class="row">
@@ -157,14 +158,14 @@ else {
 
         </section>
         
-        
+        <!-- code for map-->
         <a href="https://goo.gl/maps/Gv4SRaMP1oC1EB7W9" target="_blank">
           <div id="map-tile">
            <iframe class="mapframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3544.33206708391!2d76.573891815212!3d30.766977781625283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ffbe96fcb94fb%3A0x357f4e51ad656ed2!2sFOOD%20REPUBLIC%20(F%2FR)!5e1!3m2!1sen!2sin!4v1582541867467!5m2!1sen!2sin" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
             
           </div>
         </a>
-    
+    <!--End map-->
     </div>
       </div>
       <div class="text-center">&copy; Copyright Food Republic 2020</div>

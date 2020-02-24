@@ -10,6 +10,7 @@ session_start();
   <link rel="shortcut icon"  href="icon.png">
   <link rel="shortcut icon" href="images/icon.png">
   <link rel="stylesheet" type = "text/css" href ="css/aboutus.css">
+  
   <link rel="stylesheet" type = "text/css" href ="css/bootstrap.min.css">
   <script type="text/javascript" src="js/jquery.min.js"></script>
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
@@ -132,6 +133,41 @@ else {
         <h3 style="color: white">Order food & beverages online from restaurants near & around you. <h3 style="color: white">We deliver food from your neighborhood local joints, your favorite cafes, luxurious & elite restaurants in your area,</h3><h3 style="color : white"> and also from chains like Dominos, KFC, Burger King, Pizza Hut, FreshMenu, Mc Donald's, Subway, Faasos, Cafe Coffee Day, Taco Bell, and more. Exciting bit?</h3><h3 style="color : white"> We place no minimum order restrictions! Order in as little (or as much) as you'd like. We'll Swiggy it to you!</h3></h3>
     </div>
 
-      <iframe src="https://www.google.com/maps/place/Le+Cafe/@11.9316155,79.8335933,17z/data=!3m1!4b1!4m5!3m4!1s0x3a53636a24873e45:0x7f1e7ad6a30982dd!8m2!3d11.9316103!4d79.835782" style="width: 250px"></iframe>
-         </body>
+      
+    <footer class="panel-footer">
+    <div class="container">
+      <div class="row">
+        <section id="hours" class="col-sm-4">
+          <span>Hours:</span><br>
+          Sun-Thurs: 10:00am - 11:00pm<br>
+          Fri: 11:15am - 10:30pm<br>
+          Saturday Closed
+          <hr class="visible-xs">
+        </section>
+        <section id="address" class="col-sm-4">
+          <span>Address:</span><br>
+          Academic Block 6
+           Chandigarh University,<br>
+           Punjab 140413
+          <p>* Delivery area within 3-4 miles, with minimum order of 400 Rs plus 50 Rs charge for all deliveries.</p>
+          <hr class="visible-xs">
+
+        </section>
+        
+        <!-- code for map-->
+        <a href="https://goo.gl/maps/Gv4SRaMP1oC1EB7W9" target="_blank">
+          <div id="map-tile">
+           <iframe class="mapframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3544.33206708391!2d76.573891815212!3d30.766977781625283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ffbe96fcb94fb%3A0x357f4e51ad656ed2!2sFOOD%20REPUBLIC%20(F%2FR)!5e1!3m2!1sen!2sin!4v1582541867467!5m2!1sen!2sin" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+            
+          </div>
+        </a>
+    <!--End map-->
+    </div>
+      </div>
+      <div class="text-center">&copy; Copyright Food Republic 2020</div>
+      
+      <div class="text-center">Made with <span class="glyphicon glyphicon-heart red"></span> </div>
+    </div>
+  </footer>
+</body>
 </html>
