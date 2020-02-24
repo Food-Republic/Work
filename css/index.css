@@ -116,16 +116,15 @@ body {
   color: #ffffff;
 }
 
-footer {
-  display: block;
-}
 /* FOOTER */
 .panel-footer {
   margin-top: 30px;
   padding-top: 35px;
   padding-bottom: 30px;
-  background-color: #222;
+  background-color: #222 !important;
   border-top: 0;
+  margin: 0em;
+  color: white;
 }
 .panel-footer div.row {
   margin-bottom: 35px;
