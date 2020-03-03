@@ -5,7 +5,7 @@ html {
 
 body {
   padding-top: 50px;
-  background-image: url("headerimg2.jpg");
+  background-image: url("../images/headerimg2.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -78,47 +78,9 @@ footer {
   font-size: 20px;
 }
 
-/* FOOTER */
-.panel-footer {
-  margin-top: 30px;
-  padding-top: 35px;
-  padding-bottom: 30px;
-  background-color: #222 !important;
-  border-top: 0;
-  margin: 0em;
-  color: white;
+.head1 {
+  border: 1px dotted black;
 }
-.panel-footer div.row {
-  margin-bottom: 35px;
-}
-#hours,
-#address {
-  line-height: 2;
-}
-#hours > span,
-#address > span {
-  font-size: 1.3em;
-}
-#address p {
-  color: #557c3e;
-  font-size: 0.8em;
-  line-height: 1.8;
-}
-#testimonials {
-  font-style: italic;
-}
-#testimonials p:nth-child(2) {
-  margin-top: 25px;
-}
-.text-center .red {
-  color: red;
-}
-/* END FOOTER */
-.mapframe {
-  width: 350px;
-  height: 200px;
-}
-
 /* FOOTER */
 .panel-footer {
   margin-top: 30px;

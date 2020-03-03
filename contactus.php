@@ -126,11 +126,10 @@ else {
       </div>
     </nav>
     <br>
-
+<div class="head1">CONTACT US</div>
     <div class="heading">
-     <strong>Want to contact <span class="edit"> Food Republic </span>?</strong>
-     <br>
-    Here are a few ways to get in touch with us.
+
+      <h1>We're here to help and answer any questions you might have. We look to hear from you.</h1>
     </div>
 
     <div class="col-xs-12 line"><hr></div>
