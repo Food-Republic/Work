@@ -6,6 +6,7 @@ session_start();
 
   <head>
     <title> About | Food Republic </title>
+   
   </head>
   <link rel="shortcut icon"  href="icon.png">
   <link rel="shortcut icon" href="images/icon.png">
@@ -17,7 +18,14 @@ session_start();
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-  <body>
+ 
+ 
+  <body style="background-image: url(../images/background.jpg);
+      
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;">
 
   
     <button onclick="topFunction()" id="myBtn" title="Go to top">
@@ -125,13 +133,48 @@ else {
       </div>
     </nav>
 
-    <div class="wide">
-        
-        <div class="tagline">It's not our <font color="red"><strong>work life</strong></font>, it's our <font color="green"><strong><em>life's work</em>.</strong></font></div>
-        <h3 style="color: red">About the food culture in Food Republic</h3>
-        <br>
-        <h3 style="color: black">Order food & beverages online from restaurants near & around you. <h3 style="color: black" >blackdeliver food from your neighborhood local joints, your favorite cafes, luxurious & elite restaurants in your area,</h3><h3 style="color : black"> and also from chains like Dominos, KFC, Burger King, Pizza Hut, FreshMenu, Mc Donald's, Subway, Faasos, Cafe Coffee Day, Taco Bell, and more. Exciting bit?</h3><h3 style="color : black"> We at the Food Republic strive to deliver fresh and hygienic delicacies to all the students and faculties who are a part of the Chandigarh University family. We work hard week in week out to ensure no stones are left unturned when a particular dish is prepared. Similarly, the developers of the FR website work hard to expand our services to all the students</h3></h3>
+    <div class="wide" >
+
+      <div class="headerabout"><h3 style="color: white;text-align: center;font-size: 4rem;">About the food culture in Food Republic</h3>
+      </div>
+      <h3 style="color: white;text-align: center;">Order food & beverages online from restaurants near & around you.</h3>
+          
+      <div class="container-aboutus" style="
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 90vw;
+    margin: 50px auto;
+    flex-flow: row-reverse;
+">
+              
+        <div class="para-aboutus1" style="
+    padding: 1.2rem;
+    font-size: 2.2rem;
+    background-color: yellow;
+    opacity:0.8;
+    border-radius: 1.2rem;
+    margin: 0 20px;
+    /* width: 200px; */
+">
+         We deliver food from your neighborhood local joints, your favorite cafes, luxurious & elite restaurants in your area,
+          and also from chains like Dominos, KFC, Burger King, Pizza Hut, FreshMenu, Mc Donald's, Subway,Cafe Coffee Day, Taco Bell, and more. Exciting bit?
+          </div> <div class="para-aboutus2" style="
+    padding: 1.2rem;
+    font-size: 2.2rem;
+    background-color: yellow;
+    opacity:0.8;
+    border-radius: 1.2rem;
+    margin: 0 20px;
+   
+">We at the Food Republic strive to deliver fresh and hygienic delicacies to all the students and faculties who are a part of the Chandigarh University family.
+          We work hard week in week out to ensure no stones are left unturned when a particular dish is prepared. Similarly, the developers of the FR website work hard to expand our services to
+           all the students.</div>
     </div>
+    <div>
+    <h2 style="text-align:center">Thanks For Visiting Us!</h2></div>
+      </div>
+        
 
       
     <footer class="panel-footer">
